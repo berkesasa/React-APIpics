@@ -50,8 +50,8 @@ npm start
 
 ## Screenshots
 
-![Desktop Image](screenshots/screenshot-desktop.png)
-![Mobile Image](screenshots/screenshot-mobile.png)
+![Desktop Image](/app/screenshots/screenshot-desktop.png)
+![Mobile Image](/app/screenshots/screenshot-mobile.png)
 ## Technologies
 
 This project uses the following technologies:
